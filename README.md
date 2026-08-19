@@ -18,5 +18,8 @@ Work in progress: This repository is under construction and details will continu
 ## Modules
 This a general overview of the curriculum. More information about each Module is available in each Module's specific folder.
 
-### Module 1: 5 August 2026
+### Module 1: 51t August 2026
 #### Introduction to Excel: Basic Data Manipulation and Explorative Data Analysis
+
+### Module 2: 19 August 2026
+#### Introduction to Business Intelligence: Getting Started with Power BI
